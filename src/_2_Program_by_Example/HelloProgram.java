@@ -1,3 +1,12 @@
+/**
+ * 
+ */
+package _2_Program_by_Example;
+
+/**
+ * @author ABWAR
+ *
+ */
 import acm.graphics.*;
 import acm.program.*;
 
