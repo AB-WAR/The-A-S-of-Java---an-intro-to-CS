@@ -12,6 +12,7 @@ import acm.program.*;
 import java.awt.*;
 
 public class _2_ex_q_9 extends GraphicsProgram {
+	
 	public void run() {
 		GRect background = new GRect (0,0,1366,768);
 		background.setColor(Color.CYAN);
@@ -52,6 +53,5 @@ public class _2_ex_q_9 extends GraphicsProgram {
 		cyanfill.setColor(Color.CYAN);
 		cyanfill.setFilled(true);
 		add(cyanfill);
-		
 	}
 }
