@@ -19,7 +19,7 @@ public class _2_ex_q_5 extends GraphicsProgram {
 	public void run() {
 		
 		/*
-		 * Calculate house coordinates using mensuration and algebra
+		 * Calculate coordinates using mensuration and algebra
 		 */
 		GRect face_outline = new GRect(199, 99, 151,251);
 		face_outline.setColor(Color.BLACK);
