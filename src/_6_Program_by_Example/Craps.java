@@ -25,6 +25,7 @@ import acm.program.*;
 import acm.util.*;
 
 public class Craps extends ConsoleProgram {
+	
 	public void run() { 
 		int total = rollTwoDice(); 
 		if (total == 7 || total == 11) { 
